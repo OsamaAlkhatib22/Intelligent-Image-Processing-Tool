@@ -29,13 +29,6 @@ The algorithms for noise addition, noise removal, and edge detection are all imp
   
 Libraries like `OpenCV` are only used for basic tasks such as image reading and display, while the processing algorithms themselves are fully coded without relying on external implementations.
 
-## 📂 Project Structure
-
-The project is organized in a modular way:
-- `main.py`: Entry point of the application with the GUI.
-- `noise_addition.py`: Contains all the noise generation algorithms.
-- `edge_detection.py`: Contains edge detection algorithms.
-- `utils.py`: Helper functions for image handling.
 
 ---
 
